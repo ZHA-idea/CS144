@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zha-node/Desktop/CS144/sponge/libsponge/byte_stream.cc
+byte_stream.hh
+/home/zha-node/Desktop/CS144/sponge/libsponge/byte_stream.hh
+
+/home/zha-node/Desktop/CS144/sponge/libsponge/byte_stream.hh
+string
+-
+deque
+-
+vector
+-
+
